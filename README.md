@@ -1,2 +1,3 @@
-# sidebar
-simple sidebar using javascript
+# navbar
+
+simple navbar using javascript
